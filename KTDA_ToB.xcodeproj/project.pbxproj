@@ -14,14 +14,32 @@
 		383DA387191B1A3B005550E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA386191B1A3B005550E5 /* main.m */; };
 		383DA38B191B1A3B005550E5 /* indigolemonAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA38A191B1A3B005550E5 /* indigolemonAppDelegate.m */; };
 		383DA38E191B1A3B005550E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 383DA38C191B1A3B005550E5 /* Main.storyboard */; };
-		383DA391191B1A3B005550E5 /* indigolemonFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA390191B1A3B005550E5 /* indigolemonFirstViewController.m */; };
-		383DA394191B1A3B005550E5 /* indigolemonSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA393191B1A3B005550E5 /* indigolemonSecondViewController.m */; };
 		383DA396191B1A3B005550E5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 383DA395191B1A3B005550E5 /* Images.xcassets */; };
 		383DA39D191B1A3B005550E5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA39C191B1A3B005550E5 /* XCTest.framework */; };
 		383DA39E191B1A3B005550E5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA37A191B1A3B005550E5 /* Foundation.framework */; };
 		383DA39F191B1A3B005550E5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA37E191B1A3B005550E5 /* UIKit.framework */; };
 		383DA3A7191B1A3B005550E5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 383DA3A5191B1A3B005550E5 /* InfoPlist.strings */; };
 		383DA3A9191B1A3B005550E5 /* KTDA_ToBTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA3A8191B1A3B005550E5 /* KTDA_ToBTests.m */; };
+		383DA3B3191B1A87005550E5 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3B2191B1A87005550E5 /* CoreData.framework */; };
+		383DA3B5191B1AB7005550E5 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3B4191B1AB7005550E5 /* Parse.framework */; };
+		383DA3B7191B1AC9005550E5 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3B6191B1AC9005550E5 /* AudioToolbox.framework */; };
+		383DA3B9191B1AD7005550E5 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3B8191B1AD7005550E5 /* CFNetwork.framework */; };
+		383DA3BB191B1AE0005550E5 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3BA191B1AE0005550E5 /* CoreLocation.framework */; };
+		383DA3BD191B1AE8005550E5 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3BC191B1AE8005550E5 /* libz.dylib */; };
+		383DA3BF191B1AF1005550E5 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3BE191B1AF1005550E5 /* MobileCoreServices.framework */; };
+		383DA3C1191B1AF9005550E5 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3C0191B1AF9005550E5 /* QuartzCore.framework */; };
+		383DA3C3191B1AFF005550E5 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3C2191B1AFF005550E5 /* Security.framework */; };
+		383DA3C5191B1B07005550E5 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3C4191B1B07005550E5 /* StoreKit.framework */; };
+		383DA3C7191B1B11005550E5 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 383DA3C6191B1B11005550E5 /* SystemConfiguration.framework */; };
+		383DA3CA191B1BAB005550E5 /* indigolemonNewDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA3C9191B1BAB005550E5 /* indigolemonNewDataViewController.m */; };
+		383DA3CD191B1BBB005550E5 /* indigolemonQueryDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383DA3CC191B1BBB005550E5 /* indigolemonQueryDataViewController.m */; };
+		3885BC23191B27CE007C0EE2 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3885BC1D191B27CE007C0EE2 /* 1.png */; };
+		3885BC24191B27CE007C0EE2 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3885BC1E191B27CE007C0EE2 /* 2.png */; };
+		3885BC25191B27CE007C0EE2 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3885BC1F191B27CE007C0EE2 /* 3.png */; };
+		3885BC26191B27CE007C0EE2 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 3885BC20191B27CE007C0EE2 /* 4.png */; };
+		3885BC27191B27CE007C0EE2 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 3885BC21191B27CE007C0EE2 /* 5.png */; };
+		3885BC28191B27CE007C0EE2 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 3885BC22191B27CE007C0EE2 /* 6.png */; };
+		38F5817A191B8575005695BE /* KTDA_ToB.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 38F58178191B8575005695BE /* KTDA_ToB.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,16 +64,34 @@
 		383DA389191B1A3B005550E5 /* indigolemonAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = indigolemonAppDelegate.h; sourceTree = "<group>"; };
 		383DA38A191B1A3B005550E5 /* indigolemonAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = indigolemonAppDelegate.m; sourceTree = "<group>"; };
 		383DA38D191B1A3B005550E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		383DA38F191B1A3B005550E5 /* indigolemonFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = indigolemonFirstViewController.h; sourceTree = "<group>"; };
-		383DA390191B1A3B005550E5 /* indigolemonFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = indigolemonFirstViewController.m; sourceTree = "<group>"; };
-		383DA392191B1A3B005550E5 /* indigolemonSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = indigolemonSecondViewController.h; sourceTree = "<group>"; };
-		383DA393191B1A3B005550E5 /* indigolemonSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = indigolemonSecondViewController.m; sourceTree = "<group>"; };
 		383DA395191B1A3B005550E5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		383DA39B191B1A3B005550E5 /* KTDA_ToBTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KTDA_ToBTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		383DA39C191B1A3B005550E5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		383DA3A4191B1A3B005550E5 /* KTDA_ToBTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KTDA_ToBTests-Info.plist"; sourceTree = "<group>"; };
 		383DA3A6191B1A3B005550E5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		383DA3A8191B1A3B005550E5 /* KTDA_ToBTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KTDA_ToBTests.m; sourceTree = "<group>"; };
+		383DA3B2191B1A87005550E5 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		383DA3B4191B1AB7005550E5 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = KTDA_ToB/Parse.framework; sourceTree = "<group>"; };
+		383DA3B6191B1AC9005550E5 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		383DA3B8191B1AD7005550E5 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		383DA3BA191B1AE0005550E5 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		383DA3BC191B1AE8005550E5 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		383DA3BE191B1AF1005550E5 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		383DA3C0191B1AF9005550E5 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		383DA3C2191B1AFF005550E5 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		383DA3C4191B1B07005550E5 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		383DA3C6191B1B11005550E5 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		383DA3C8191B1BAB005550E5 /* indigolemonNewDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = indigolemonNewDataViewController.h; sourceTree = "<group>"; };
+		383DA3C9191B1BAB005550E5 /* indigolemonNewDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = indigolemonNewDataViewController.m; sourceTree = "<group>"; };
+		383DA3CB191B1BBB005550E5 /* indigolemonQueryDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = indigolemonQueryDataViewController.h; sourceTree = "<group>"; };
+		383DA3CC191B1BBB005550E5 /* indigolemonQueryDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = indigolemonQueryDataViewController.m; sourceTree = "<group>"; };
+		3885BC1D191B27CE007C0EE2 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		3885BC1E191B27CE007C0EE2 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		3885BC1F191B27CE007C0EE2 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		3885BC20191B27CE007C0EE2 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		3885BC21191B27CE007C0EE2 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		3885BC22191B27CE007C0EE2 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		38F58179191B8575005695BE /* KTDA_ToB.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = KTDA_ToB.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,9 +99,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				383DA3C7191B1B11005550E5 /* SystemConfiguration.framework in Frameworks */,
+				383DA3C5191B1B07005550E5 /* StoreKit.framework in Frameworks */,
+				383DA3C3191B1AFF005550E5 /* Security.framework in Frameworks */,
+				383DA3C1191B1AF9005550E5 /* QuartzCore.framework in Frameworks */,
+				383DA3BF191B1AF1005550E5 /* MobileCoreServices.framework in Frameworks */,
+				383DA3BD191B1AE8005550E5 /* libz.dylib in Frameworks */,
+				383DA3BB191B1AE0005550E5 /* CoreLocation.framework in Frameworks */,
+				383DA3B9191B1AD7005550E5 /* CFNetwork.framework in Frameworks */,
+				383DA3B7191B1AC9005550E5 /* AudioToolbox.framework in Frameworks */,
+				383DA3B3191B1A87005550E5 /* CoreData.framework in Frameworks */,
 				383DA37D191B1A3B005550E5 /* CoreGraphics.framework in Frameworks */,
 				383DA37F191B1A3B005550E5 /* UIKit.framework in Frameworks */,
 				383DA37B191B1A3B005550E5 /* Foundation.framework in Frameworks */,
+				383DA3B5191B1AB7005550E5 /* Parse.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -104,6 +151,17 @@
 		383DA379191B1A3B005550E5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				383DA3C6191B1B11005550E5 /* SystemConfiguration.framework */,
+				383DA3C4191B1B07005550E5 /* StoreKit.framework */,
+				383DA3C2191B1AFF005550E5 /* Security.framework */,
+				383DA3C0191B1AF9005550E5 /* QuartzCore.framework */,
+				383DA3BE191B1AF1005550E5 /* MobileCoreServices.framework */,
+				383DA3BC191B1AE8005550E5 /* libz.dylib */,
+				383DA3BA191B1AE0005550E5 /* CoreLocation.framework */,
+				383DA3B8191B1AD7005550E5 /* CFNetwork.framework */,
+				383DA3B6191B1AC9005550E5 /* AudioToolbox.framework */,
+				383DA3B4191B1AB7005550E5 /* Parse.framework */,
+				383DA3B2191B1A87005550E5 /* CoreData.framework */,
 				383DA37A191B1A3B005550E5 /* Foundation.framework */,
 				383DA37C191B1A3B005550E5 /* CoreGraphics.framework */,
 				383DA37E191B1A3B005550E5 /* UIKit.framework */,
@@ -115,15 +173,17 @@
 		383DA380191B1A3B005550E5 /* KTDA_ToB */ = {
 			isa = PBXGroup;
 			children = (
+				3885BC1C191B27CE007C0EE2 /* images */,
 				383DA389191B1A3B005550E5 /* indigolemonAppDelegate.h */,
 				383DA38A191B1A3B005550E5 /* indigolemonAppDelegate.m */,
 				383DA38C191B1A3B005550E5 /* Main.storyboard */,
-				383DA38F191B1A3B005550E5 /* indigolemonFirstViewController.h */,
-				383DA390191B1A3B005550E5 /* indigolemonFirstViewController.m */,
-				383DA392191B1A3B005550E5 /* indigolemonSecondViewController.h */,
-				383DA393191B1A3B005550E5 /* indigolemonSecondViewController.m */,
 				383DA395191B1A3B005550E5 /* Images.xcassets */,
 				383DA381191B1A3B005550E5 /* Supporting Files */,
+				38F58178191B8575005695BE /* KTDA_ToB.xcdatamodeld */,
+				383DA3C8191B1BAB005550E5 /* indigolemonNewDataViewController.h */,
+				383DA3C9191B1BAB005550E5 /* indigolemonNewDataViewController.m */,
+				383DA3CB191B1BBB005550E5 /* indigolemonQueryDataViewController.h */,
+				383DA3CC191B1BBB005550E5 /* indigolemonQueryDataViewController.m */,
 			);
 			path = KTDA_ToB;
 			sourceTree = "<group>";
@@ -155,6 +215,19 @@
 				383DA3A5191B1A3B005550E5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3885BC1C191B27CE007C0EE2 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3885BC1D191B27CE007C0EE2 /* 1.png */,
+				3885BC1E191B27CE007C0EE2 /* 2.png */,
+				3885BC1F191B27CE007C0EE2 /* 3.png */,
+				3885BC20191B27CE007C0EE2 /* 4.png */,
+				3885BC21191B27CE007C0EE2 /* 5.png */,
+				3885BC22191B27CE007C0EE2 /* 6.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +308,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				383DA396191B1A3B005550E5 /* Images.xcassets in Resources */,
+				3885BC26191B27CE007C0EE2 /* 4.png in Resources */,
+				3885BC23191B27CE007C0EE2 /* 1.png in Resources */,
+				3885BC28191B27CE007C0EE2 /* 6.png in Resources */,
+				3885BC24191B27CE007C0EE2 /* 2.png in Resources */,
+				3885BC25191B27CE007C0EE2 /* 3.png in Resources */,
+				3885BC27191B27CE007C0EE2 /* 5.png in Resources */,
 				383DA385191B1A3B005550E5 /* InfoPlist.strings in Resources */,
 				383DA38E191B1A3B005550E5 /* Main.storyboard in Resources */,
 			);
@@ -255,10 +334,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				383DA394191B1A3B005550E5 /* indigolemonSecondViewController.m in Sources */,
-				383DA391191B1A3B005550E5 /* indigolemonFirstViewController.m in Sources */,
 				383DA38B191B1A3B005550E5 /* indigolemonAppDelegate.m in Sources */,
+				38F5817A191B8575005695BE /* KTDA_ToB.xcdatamodeld in Sources */,
 				383DA387191B1A3B005550E5 /* main.m in Sources */,
+				383DA3CA191B1BAB005550E5 /* indigolemonNewDataViewController.m in Sources */,
+				383DA3CD191B1BBB005550E5 /* indigolemonQueryDataViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,9 +463,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/KTDA_ToB",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KTDA_ToB/KTDA_ToB-Prefix.pch";
 				INFOPLIST_FILE = "KTDA_ToB/KTDA_ToB-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -396,9 +481,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/KTDA_ToB",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KTDA_ToB/KTDA_ToB-Prefix.pch";
 				INFOPLIST_FILE = "KTDA_ToB/KTDA_ToB-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -463,6 +553,7 @@
 				383DA3AE191B1A3B005550E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		383DA3AF191B1A3B005550E5 /* Build configuration list for PBXNativeTarget "KTDA_ToBTests" */ = {
 			isa = XCConfigurationList;
@@ -471,8 +562,22 @@
 				383DA3B1191B1A3B005550E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		38F58178191B8575005695BE /* KTDA_ToB.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				38F58179191B8575005695BE /* KTDA_ToB.xcdatamodel */,
+			);
+			currentVersion = 38F58179191B8575005695BE /* KTDA_ToB.xcdatamodel */;
+			path = KTDA_ToB.xcdatamodeld;
+			sourceTree = SOURCE_ROOT;
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 383DA36F191B1A3B005550E5 /* Project object */;
 }
